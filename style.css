@@ -1,0 +1,48 @@
+.headerContainer {
+    display: flex;
+}
+
+.left {
+    background-color: blanchedalmond;
+    height: 300px;
+    width: 300px;
+    border: 1px solid;
+}
+
+.right {
+
+    background-color: blanchedalmond;
+    height: 300px;
+    width: 300px;
+    border: 1px solid;
+}
+
+.form {
+    display: flex;
+    color: white;
+}
+
+.footerContainer {
+    display: flex;
+}
+
+.ftleft {
+    
+    background: #282828;
+    color: white;
+    height: 180px;
+    width: 300px;
+    border: 1px solid;
+}
+
+.ftright {
+    text-align: right;
+    background: #282828;
+    color: white;
+    height: 180px;
+    width: 300px;
+    border: 1px solid;
+}
+.linkedln{
+    color:blanchedalmond
+}
